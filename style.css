@@ -38,6 +38,27 @@ h1{
 .favourite-book{
     display: flex;
     width: 40% ;
-    margin: 5% ;
-    padding: 5% ;
+    margin: 10% ;
+    padding: 10% ;
+
+}
+.pendulam{
+    box-shadow: 10px 10px 5px gray;
+}
+.pilgrim{
+    box-shadow: 10px 10px 5px gray;
+}
+#pendu-right-marg{
+    margin-right: 20px ;
+    padding-left: 20px ;
+    border-left: 5px solid ;
+    border-image: linear-gradient(gold, red);
+    border-image-slice: 1;
+}
+#pil-left-marg{
+    margin-left: 20px ;
+    padding-left: 50px ;
+    border-left: 5px solid ;
+    border-image: linear-gradient(green, blue);
+    border-image-slice: 2;
 }
