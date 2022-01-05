@@ -35,3 +35,9 @@ h1{
     font-size: 40px;
     font-weight: 300;
 }
+.favourite-book{
+    display: flex;
+    width: 40% ;
+    margin: 5% ;
+    padding: 5% ;
+}
